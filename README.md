@@ -4,8 +4,7 @@ I'm a passionate developer exploring the world of technology.
 
 ⭐️ *"Always learning, always building."*
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Yohannes33&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yohannes33&theme=dark" alt="GitHub Streak" /></a>
 <!--
 **Yohannes33/Yohannes33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
