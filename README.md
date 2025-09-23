@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hii <img src="wave.gif" alt="Wave" width="50">, I'm Yohannes Negash
+
+I'm a passionate developer exploring the world of technology.
+
+⭐️ *"Always learning, always building."*
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Yohannes33&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
 <!--
 **Yohannes33/Yohannes33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
