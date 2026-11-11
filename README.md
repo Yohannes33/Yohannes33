@@ -6,14 +6,6 @@ I work across the stack in Python and TypeScript, mostly where systems meet: ide
 
 Right now I'm focused on applying LLMs and agents to real business systems, and on the engineering that makes them dependable.
 
-### What I work with
-
-- **Languages:** Python, TypeScript, SQL
-- **Backend:** FastAPI, Frappe / ERPNext, Node.js, REST APIs, role-based access control
-- **Frontend:** Next.js, React, Tailwind CSS, TanStack Query, Zod
-- **Data and platform:** PostgreSQL, Supabase (Auth, RLS, Realtime, Edge Functions), GitHub Actions, Vercel
-- **AI and optimisation:** Whisper speech-to-text, Hugging Face Transformers, Google OR-Tools, Claude Code
-
 ### Selected projects
 
 - [Shuttle route optimisation API](https://github.com/Yohannes33/route-optimization-api): assigns employees to shuttles and plans capacity-constrained pickup routes with Google OR-Tools behind a FastAPI service.
